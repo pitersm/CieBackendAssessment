@@ -5821,11 +5821,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PMACHADO\\source\\repos\\pitersm\\CieBackendAssessment\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\PMACHADO\\Desktop\\Temp\\CieBackendAssessment\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\PMACHADO\\source\\repos\\pitersm\\CieBackendAssessment\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\PMACHADO\\Desktop\\Temp\\CieBackendAssessment\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\PMACHADO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PMACHADO\\source\\repos\\pitersm\\CieBackendAssessment\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\PMACHADO\\Desktop\\Temp\\CieBackendAssessment\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PMACHADO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5842,8 +5842,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\PMACHADO\\source\\repos\\pitersm\\CieBackendAssessment\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\PMACHADO\\source\\repos\\pitersm\\CieBackendAssessment\\Core\\Core.csproj"
+            "C:\\Users\\PMACHADO\\Desktop\\Temp\\CieBackendAssessment\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\PMACHADO\\Desktop\\Temp\\CieBackendAssessment\\Core\\Core.csproj"
             }
           }
         }

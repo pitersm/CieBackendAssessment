@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PMACHADO\\source\\repos\\pitersm\\CieBackendAssessment\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\PMACHADO\\Desktop\\Temp\\CieBackendAssessment\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\PMACHADO\\source\\repos\\pitersm\\CieBackendAssessment\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\PMACHADO\\Desktop\\Temp\\CieBackendAssessment\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\PMACHADO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PMACHADO\\source\\repos\\pitersm\\CieBackendAssessment\\Core\\obj\\",
+      "outputPath": "C:\\Users\\PMACHADO\\Desktop\\Temp\\CieBackendAssessment\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PMACHADO\\AppData\\Roaming\\NuGet\\NuGet.Config",

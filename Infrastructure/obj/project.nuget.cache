@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zZwYeDLNCZ8SR3VuSw+Hxxh6B26cXxCOgxpGxtSzcamfB6kEAD2AhVhfPkxTwOgtAttEwYZU75n8Yo40Yxe9OA==",
+  "dgSpecHash": "8NOOOjY/G50s9NW6i5izoLxtRzGJpHx9uCRiHqjLCP8IcNBG9NhkSj53+go/NtKR+Wwv5KLyneJzZhMCoG2X1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PMACHADO\\source\\repos\\pitersm\\CieBackendAssessment\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\PMACHADO\\Desktop\\Temp\\CieBackendAssessment\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PMACHADO\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\PMACHADO\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
