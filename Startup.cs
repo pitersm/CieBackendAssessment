@@ -39,10 +39,6 @@ namespace CieBackendAssessment
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "CieBackendAssessment", Version = "v1" });
-
-                var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
-                var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
-                c.IncludeXmlComments(xmlPath);
             });
             services.Configure<StripeConfig>(Configuration.GetSection("StripeConfig"));
 
