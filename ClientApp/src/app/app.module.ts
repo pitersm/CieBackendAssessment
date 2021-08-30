@@ -9,7 +9,7 @@ import { NavMenuComponent } from './nav-menu/nav-menu.component';
 import { HomeComponent } from './home/home.component';
 import { LoginComponent } from './login/login.component';
 import { Observable } from 'rxjs';
-import { User } from 'src/model/user.model';
+import { User } from '../app/model/user.model';
 import { UserService } from './shared/user.service';
 
 @Injectable()

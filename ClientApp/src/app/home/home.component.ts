@@ -4,7 +4,7 @@ import { SubSink } from "subsink";
 import { loadStripe } from "@stripe/stripe-js";
 import { environment } from "../../environments/environment";
 import { ActivatedRoute } from "@angular/router";
-import { User } from "src/model/user.model";
+import { User } from "../../app/model/user.model";
 
 @Component({
   selector: "app-home",
