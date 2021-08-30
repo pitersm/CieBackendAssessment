@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CieBackendAssessment</name>
+    </assembly>
+    <members>
+        <member name="M:CieBackendAssessment.Controllers.PaymentsController.CreateCheckoutSession(Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            Creates a checkout session
+            </summary>
+            <param name="checkoutParameters">JSON containing the redirect URLs + user e-mail</param>
+        </member>
+        <member name="M:CieBackendAssessment.Controllers.PaymentsController.CreatePortalSession(Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            Creates a portal session
+            </summary>
+            <param name="portalParameters">JSON containing the redirect URL + user e-mail</param>
+        </member>
+        <member name="M:CieBackendAssessment.Controllers.UserController.Login(System.String)">
+            <summary>
+            Logs a given user in
+            </summary>
+            <param name="eMail" example="piter.machado@x-team.com">The user's email address</param>
+        </member>
+        <member name="M:CieBackendAssessment.Controllers.UserController.Get(System.Int64)">
+            <summary>
+            Gets a specific user by its unique id
+            </summary>
+            <param name="id" example="1">The user id</param>
+        </member>
+    </members>
+</doc>
